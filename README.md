@@ -1,4 +1,4 @@
-# Interactive-To-Do-List<a name="readme-top"></a>
+# 🌟 ZenTasks<a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
 
