@@ -20,7 +20,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Interactive-To-Do-List] <a name="About-To-Do-List"></a>
+# 📖 [🌟 ZenTasks] <a name="About-To-Do-List"></a>
 A dynamic task manager with add, edit, delete, and prioritization features. Practice CRUD operations and localStorage for data persistence while mastering DOM manipulation.
 
 ## 🛠 Built With <a name="built-with">
